@@ -4,7 +4,7 @@ The application, developed using Python, PyQt5 and PyQt Designer, ensures that a
 Shortcomings and weaknesses:
 1. The application runs on a server and connected to the database, but the current situation the application is not connected to a server.
 2. The user is responsible for making the database.
-3. The codes responsible for creating the database and tables required for PostgreSQL are located in the beforeMain.py file.
+3. The codes responsible for creating the database and tables required for PostgreSQL are located in the BeforeMain.py file.
 
 main page:  
 ![image](https://github.com/hnfkptn/Scheduled_Email/assets/129584767/1dae6558-4177-4c48-8fbb-447b1ed5a879)
