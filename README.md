@@ -26,16 +26,14 @@ This application allows users to automatically send emails at a specified date a
 
 Before running the application, you need to install the required libraries. Run the following command in your terminal:
 
-**********************************
 > pip install -r requirements.txt
-**********************************
+
 
 ### 3. Running the Application
 To start the application, use the following command in your terminal:
 
-**********************************
 > streamlit run app.py
-**********************************
+
 
 ## Relevant Links
 [Gmail API](https://developers.google.com/gmail/api/guides?hl=tr)
@@ -45,6 +43,6 @@ To start the application, use the following command in your terminal:
 ## Contact Information
 For any questions or feedback, feel free to contact me:
 
-Email: (mailto:kptnhanife.2002@gmail.com )
+Email: [kptnhanife.2002@gmail.com](mailto:kptnhanife.2002@gmail.com )
 
-Linkedin: (https://www.linkedin.com/in/hanifekaptan-u1f90d/)
+Linkedin: [My Linkedin](https://www.linkedin.com/in/hanifekaptan-u1f90d/)
