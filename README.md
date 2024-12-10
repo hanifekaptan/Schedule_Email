@@ -12,7 +12,7 @@ This application allows users to automatically send emails at a specified date a
 
 ### 1. Setting Up the Gmail API
 
-1. Go to the **Google Cloud Console**: [Google Cloud Console].
+1. Go to the **Google Cloud Console**: [Google Cloud Console](https://console.cloud.google.com/).
 2. Create a new project or select an existing one.
 3. Navigate to "API & Services" and select the "Library" section.
 4. Search for "Gmail API" and enable it.
